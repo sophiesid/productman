@@ -79,7 +79,9 @@ textarea {
 	display: inline-block;
 	margin-left: 45px;
 	letter-spacing: 0.02em;
-
+}
+.ba-menu a:hover{
+	color:  #e10011;
 }
 .ba-menu li:last-child{
 	margin-left: 35px;
@@ -121,7 +123,14 @@ textarea {
 .ba-info-view{
 	margin-top: 10px;
 	font-weight: 700;
+
+}
+.ba-info-view a{
+	text-decoration: none;
 	color:  #e10011;
+}
+.ba-info-view a:hover{
+	color: #333333;
 }
 .ba-intro-marker{
 margin-top: 30px;
