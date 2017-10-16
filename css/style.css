@@ -145,6 +145,6 @@ text-align: center;
 	height: 11px;
 	display: block;
 }
-.ba-active{
+.ba-marker-menu li:first-child span{
 	background-color:  #e10011;
 }
